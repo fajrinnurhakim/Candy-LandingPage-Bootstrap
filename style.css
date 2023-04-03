@@ -1,0 +1,107 @@
+body{
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+}
+
+.navbar .navbar-brand{
+    font-weight: 100;
+    color: #EA1C2C;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    font-weight: 100;
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    font-weight: 100;
+    color: #EA1C2C;
+}
+
+.hometext h1{
+    color: #fff;
+    font-weight: 100;
+    font-size: 68px;
+}
+
+.hometext span{
+    color: #EA1C2C;
+}
+
+.milktext h1{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.milktext p{
+    color: #ffa2c9;
+    font-size: 24px;
+}
+
+.candytext h1{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.candytext p{
+    color: #ffa2c9;
+    font-size: 24px;
+}
+
+.sprinklestext h1{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.sprinklestext p{
+    color: #ffa2c9;
+    font-size: 24px;
+}
+
+@media (max-width: 1200px) {
+    .hometext h1{
+        color: #fff;
+        font-weight: 100;
+        font-size: 68px;
+    }
+    
+    .hometext span{
+        color: #EA1C2C;
+    }
+    
+    .milktext h1{
+        color: #EA1C2C;
+        font-weight: 100;
+        font-size: 32px;
+    }
+    
+    .milktext p{
+        color: #ffa2c9;
+        font-size: 16px;
+    }
+    
+    .candytext h1{
+        color: #EA1C2C;
+        font-weight: 100;
+        font-size: 32px;
+    }
+    
+    .candytext p{
+        color: #ffa2c9;
+        font-size: 16px;
+    }
+    
+    .sprinklestext h1{
+        color: #EA1C2C;
+        font-weight: 100;
+        font-size: 32px;
+    }
+    
+    .sprinklestext p{
+        color: #ffa2c9;
+        font-size: 16px;
+    }
+}
